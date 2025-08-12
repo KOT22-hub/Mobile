@@ -1,8 +1,10 @@
 📚 Bookstore App
+
 A mobile Book Recommendation app built with React Native and Expo, powered by an Express backend and MongoDB database. Users can sign up, log in, and create book recommendations. Hosted on Railway for a smoother backend deployment experience.
 
 
 🚀 Features
+
 📖 Create and view book recommendations
 🔐 User authentication (Sign up & Log in)
 ☁️ Backend API with Express
@@ -12,6 +14,7 @@ A mobile Book Recommendation app built with React Native and Expo, powered by an
 
 
 Tech	Description
+
 React Native + Expo	Frontend mobile framework
 Express.js	Backend REST API
 MongoDB	NoSQL database
@@ -19,16 +22,19 @@ Railway	Hosting backend + database
 
 
 🚧 Work in Progress
+
  Fixing issues with the create book endpoint
  Adding UI feedback (loading states, errors)
  Improve validation on forms
  Deploy frontend (if applicable)
  
 💡 Dev Notes
+
 Initially tried Render for backend but switched to Railway due to long cold starts. Railway made deployment smoother and faster.
 Faced some challenges with the POST /books endpoint, still debugging and improving API error handling.
 
 📦 Installation
+
 Node.js
 Expo CLI (npm install -g expo-cli)
 MongoDB (local or hosted)
@@ -38,6 +44,8 @@ git clone https://github.com/KOT22-hub/Mobile.git
 cd bookstore-app
 npm install
 expo start
+
+
 Backend (Express API)
 In the /server directory:
 npm install
