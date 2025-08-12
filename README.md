@@ -71,7 +71,11 @@ This is a solo project for learning and portfolio-building, but feel free to for
 Learned the full stack cycle of a mobile app — from UI to backend
 Understood hosting limitations and chose better platforms
 Got deeper into JWT authentication and MongoDB schema modeling
+
+
 📌 TODO (Next Up)
+
+
  Add update/delete book features
  Implement better UI/UX
  Push app to Play Store / TestFlight
